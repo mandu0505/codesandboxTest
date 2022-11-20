@@ -8,6 +8,7 @@ export default function App() {
       <h1>생성후테스트</h1>
       <h1>마스터커밋</h1>
       <h1>재접속커밋</h1>
+      <h1>새로운커밋</h1>
     </div>
   );
 }
